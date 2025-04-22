@@ -2,7 +2,7 @@
 
 
 **Overview**\
-A reproducible pipeline to collect, preprocess, enrich, and model data from The New York Times restaurant reviews, with a focus on detecting potential geographic or socioeconomic biases in top-rated listings. Workflows include web scraping, data cleaning, census-based feature augmentation, NLP on review text, and predictive modeling with XGBoost.
+A reproducible pipeline to collect, preprocess, enrich, and model data from The New York Times restaurant reviews, with a focus on detecting potential geographic or socioeconomic indicators to determine likelihood of restaurants getting reviwed by the NYT. Workflows include web scraping, data cleaning, census-based feature augmentation, NLP on review text, and predictive modeling with XGBoost.
 
 **Repository Structure**
 
